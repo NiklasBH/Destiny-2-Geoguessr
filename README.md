@@ -20,7 +20,7 @@ There are currently two version. **The "NEW VERSION" is work in progress, and is
 7. View your total score and results for each round after all 5 rounds have concluded. Press "play again" to start over, and improve your accuracy! 
 
 ## How to play Old Version
-There are currently two version. **The "OLD VERSION" is no longer supported, and will not receive any more updates.
+There are currently two version. **The "OLD VERSION" is no longer supported, and will not receive any more updates.**
 1. Go to the OLD VERSION folder
 2. Double click the **main.html** file to open the file in your browser.
 3. Click the Play button on the main screen.
@@ -62,3 +62,4 @@ His Bungie ID: Gta85, The Bulk Chicken#9599
 
 
 You can contact me on discord for any inquiries: dove5373
+
